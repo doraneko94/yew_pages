@@ -10,7 +10,8 @@ PREDEF:
 
 ## 本文
 CHAPS:
-  - 01-hello.re
+  - 01-skill.re
+  - 02-hello.re
 
 ## 付録
 APPENDIX:
